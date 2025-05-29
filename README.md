@@ -1,4 +1,4 @@
-# Hi there 👋 I'm AiKaga-Azrael
+# Hi there 👋 I'm Ai Kaga-Azrael
 
 Aspiring PHP/Laravel Developer passionate about building powerful and clean web applications.
 
